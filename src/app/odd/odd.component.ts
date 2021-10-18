@@ -10,5 +10,4 @@ export class OddComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }
